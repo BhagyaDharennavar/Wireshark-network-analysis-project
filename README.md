@@ -114,8 +114,6 @@ Will include:
 wireshark-network-analysis-project/
 │
 ├── README.md
-├── report/
-│   └── Wireshark_Traffic_Analysis_Report_Enhanced.docx
 ├── pcap-files/
 │   ├── normal_traffic.pcapng
 │   ├── portscan_full_capture.pcapng
