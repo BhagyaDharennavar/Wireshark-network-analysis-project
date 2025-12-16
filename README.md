@@ -1,7 +1,5 @@
 # Network Traffic Monitoring & Threat Detection Using Wireshark
 
-### A Cybersecurity & SOC Analyst Project by **Bhagya Dharennavar**
-
 ---
 
 ## 📌 Project Overview
